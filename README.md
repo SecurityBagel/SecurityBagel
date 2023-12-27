@@ -1,5 +1,8 @@
-![Security Bagel](https://github.com/SecurityBagel/SecurityBagel/blob/main/SecurityBagel.png)
-# Project Title
+<p align="center">
+  <img src="https://github.com/SecurityBagel/SecurityBagel/blob/main/SecurityBagel.png"/>
+</p>
+
+## Project Overview
 
 SecurityBagel aims to provide cybersecurity management and measurement solutions using Microsoft's Power BI. Designed for both seasoned professionals and newcomers, our project simplifies complex models, frameworks, and data relationships, making cybersecurity insights more accessible and actionable. Whether you're looking to customize advanced tools or start with the basics, SecurityBagel provides the resources to enhance and share your cybersecurity practices through intuitive, cost-effective solutions.
 
