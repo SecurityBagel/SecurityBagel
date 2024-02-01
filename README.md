@@ -2,8 +2,11 @@
   <img src="https://github.com/SecurityBagel/SecurityBagel/blob/main/SecurityBagel.png"/>
 </p>
 
-DIY Cybersecurity Management
-*Automate *Measure *Communicate
+<p align="center">
+  DIY Cybersecurity Management
+  -Automate -Measure -Communicate
+</p>
+
 
 ## Project Overview
 
