@@ -4,7 +4,7 @@
 
 <p align="center">
   DIY Cybersecurity Management
-  Measure - Communicate - Automate
+  <br>Measure - Communicate - Automate
 </p>
 
 
