@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  DIY Cybersecurity Management
-  <br>Measure - Communicate - Automate
+  Cybersecurity Management Toolsets
+  <br>Measure - Communicate - Automate - Inspire
 </p>
 
 
