@@ -10,7 +10,11 @@
 
 ## Project Overview
 
-Security Bagel aims to provide free/low cost DIY apps and solution templates for Cybersecurity Management using Microsoft Power BI. Designed for both seasoned professionals and newcomers, our project simplifies complex models, frameworks, and their relationships allowing you to extend and build your own solutions. Automate and analyze your internal security telemetry data, making cybersecurity insights more accessible and actionable at your company. Whether you're looking to customize advanced tools or start with the basics, Security Bagel provides the resources to enhance and share your cybersecurity practices through intuitive and cost-effective solutions.
+Security Bagel aims to provide free/low cost DIY apps and solution templates for Cybersecurity Management using Microsoft Power BI. 
+
+Designed for both seasoned professionals and newcomers, our project simplifies complex models, frameworks, and their relationships allowing you to extend and build your own solutions. Automate and analyze your internal security telemetry data, making cybersecurity insights more accessible and actionable at your company. 
+
+Whether you're looking to customize advanced tools or start with the basics, Security Bagel provides the resources to enhance and share your cybersecurity practices through intuitive and cost-effective solutions.
 
 ## Security Bagel's Power BI Features
 
