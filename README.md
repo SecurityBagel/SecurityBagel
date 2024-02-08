@@ -12,7 +12,7 @@
 
 Security Bagel aims to provide low-code/no-code apps and solution templates for Cybersecurity Management using Microsoft Power BI. 
 
-Designed for both seasoned professionals and newcomers, our project simplifies complex models, frameworks, and their relationships allowing you to extend and build your own solutions. Automate and analyze your internal and external security telemetry data, manual checklists, and reports making cybersecurity insights more accessible and actionable at your company. 
+Designed for both seasoned professionals and newcomers, my project simplifies complex models, frameworks, and their relationships allowing you to extend and build your own solutions. Automate and analyze your internal and external security telemetry data, manual checklists, and reports making cybersecurity insights more accessible and actionable at your company. 
 
 Whether you're looking to customize advanced tools or start with the basics, Security Bagel provides the resources to enhance and share your cybersecurity practices through intuitive and cost-effective solutions.
 
