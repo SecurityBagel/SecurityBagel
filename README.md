@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Cybersecurity Management Toolsets
+  Cybersecurity Toolsets
   <br>Measure - Communicate - Automate - Inspire
 </p>
 
@@ -24,7 +24,7 @@ Whether you're looking to customize advanced tools or start with the basics, Sec
 
 ## Roadmap
 
-- Expand Vendor API queries and connectors and OSINT integrations.
+- Expand Vendor API queries and connectors and open-source integrations.
 - Continue to add usable cybersecurity framework and management templates.
 - Add cybsecurity measurement techniques with DAX, Python and R code.
 - Promote re-usable templates for cybersecurity community collaboration and information sharing. 
