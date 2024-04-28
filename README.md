@@ -10,9 +10,9 @@
 
 ## Project Overview
 
-Security Bagel aims to provide low-code/no-code apps and solution templates for Cybersecurity Management using Microsoft Power BI. 
+The goal of Security Bagel is to provide low-code/no-code apps and solution templates for cybersecurity Management using Microsoft Power BI. 
 
-Designed for both seasoned professionals and newcomers, my project simplifies complex models, frameworks, and their relationships allowing you to extend and build your own solutions. Automate and analyze your internal and external security telemetry data, manual checklists, and reports making cybersecurity insights more accessible and actionable at your company. 
+Designed for both seasoned professionals and newcomers, my Power BI projects simplify complex models, frameworks, and data. Check out the growing list of Power BI template respositories and use to automate and analyze your internal and external security telemetry data, manual checklists, and reports making cybersecurity insights more accessible and actionable at your company. 
 
 Whether you're looking to customize advanced tools or start with the basics, Security Bagel provides the resources to enhance and share your cybersecurity practices through intuitive and cost-effective solutions.
 
@@ -24,14 +24,15 @@ Whether you're looking to customize advanced tools or start with the basics, Sec
 
 ## Roadmap
 
-- Expand Vendor API queries and connectors and open-source integrations.
+- Develop Vendor API queries and example organizational data for guided use-cases
 - Continue to add usable cybersecurity framework and management templates.
-- Add cybsecurity measurement techniques with DAX, Python and R code.
 - Promote re-usable templates for cybersecurity community collaboration and information sharing. 
 
 ## Get Involved
-* Expand to your own projects, research, and toolsets.
-* Contribute to a growing collection of cybersecurity data analysis techniques and Power BI code.
-* Learn a highly-needed skill in the cybersecurity industry and showcase your own projects.
-* Build and share custom API queries and connectors.
-* Please submit bug fixes and data model, techniques, and DAX code improvements. 
+* Integrate with your own projects, research, and toolsets.
+* Submit ideas and feedback.
+* If you have Excel templates that can benefit from interactive and engaging visualizations and calculations, let me know.
+
+Vendors
+* I am looking for security tool vendors and example data.
+  
