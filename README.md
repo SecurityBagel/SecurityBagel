@@ -9,30 +9,21 @@
 
 
 ## Project Overview
-
-The goal of Security Bagel is to provide low-code/no-code apps and solution templates for cybersecurity Management using Microsoft Power BI. 
-
-Designed for both seasoned professionals and newcomers, my Power BI projects simplify complex models, frameworks, and data. Check out the growing list of Power BI template respositories and use to automate and analyze your internal and external security telemetry data, manual checklists, and reports making cybersecurity insights more accessible and actionable at your company. 
-
-Whether you're looking to customize advanced tools or start with the basics, Security Bagel provides the resources to enhance and share your cybersecurity practices through intuitive and cost-effective solutions.
+Security Bagel is about creating and sharing practical and enjoyable Power BI templates for cybersecurity and GRC (Governance, Risk, and Compliance) use cases.
 
 ## Security Bagel's Power BI Features
-
-- Security Frameworks and Models: Interactive Power BI templates and tools 
-- Purpose built Cybersecurity data queries and connectors: Expanding library of API queries to open-source intelligence (OSINT) and Tools. 
-- Power BI Templates: A growing collection of Power BI templates, data models, and DAX for various cybersecurity use cases.
+- Security Frameworks and Models: Interactive Power BI templates and tools that help visualize various security frameworks.
+- Cybersecurity Data Queries and Connectors: A growing library of API queries that connect to open-source intelligence (OSINT), vendor tools and other cybersecurity resources.
+- Power BI Templates: A collection of Power BI templates, data models, and DAX designed for different cybersecurity scenarios.
 
 ## Roadmap
-
-- Develop Vendor API queries and example organizational data for guided use-cases
-- Continue to add usable cybersecurity framework and management templates.
-- Promote re-usable templates for cybersecurity community collaboration and information sharing. 
-
-## Get Involved
-* Integrate with your own projects, research, and toolsets.
-* Submit ideas and feedback.
-* If you have Excel templates that can benefit from interactive and engaging visualizations and calculations, let me know.
-
-Vendors
-* I am looking for security tool vendors and example data.
-  
+- Expand vendor API queries and provide example data.
+- Continue adding practical templates for cybersecurity frameworks and management.
+- Respond to your feedback and use-case requests.
+ 
+## License and Contribution Guidelines
+This repository is licensed under the GNU General Public License (GPL).
+- Organizations can freely use and modify these Power BI templates to suit their needs.
+- If you distribute modified versions publicly, they must remain open-source under the same GPL license.
+- Attribution: Please credit the original author when showcasing or redistributing these templates.
+If you make improvements to the data model, performance optimization, or enhancements to calculations, please submit those changes back to this repository. This helps ensure that the community can benefit from improvements and continue collaborating to make the templates more effective.
