@@ -22,8 +22,8 @@ Security Bagel is about creating and sharing practical and enjoyable Power BI te
 - Respond to your feedback and use-case requests.
  
 ## License and Contribution Guidelines
-This repository is licensed under the GNU General Public License (GPL).
+This repository is licensed under the **GNU General Public License (GPL)**.
 - Organizations can freely use and modify these Power BI templates to suit their needs.
 - If you distribute modified versions publicly, they must remain open-source under the same GPL license.
 - Attribution: Please credit the original author when showcasing or redistributing these templates.
-If you make improvements to the data model, performance optimization, or enhancements to calculations, please submit those changes back to this repository. This helps ensure that the community can benefit from improvements and continue collaborating to make the templates more effective.
+- If you make improvements to the data model, performance optimization, or enhancements to calculations, please submit those changes back to this repository. This helps ensure that the community can benefit from improvements and continue collaborating to make the templates more effective.
