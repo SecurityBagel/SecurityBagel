@@ -3,11 +3,8 @@
 </p>
 
 <p align="center">
-  Cybersecurity Toolsets
-  <br>Measure - Communicate - Automate - Inspire
-</p>
-
-
+  Power BI Solutions for GRC Management and Measurement
+  
 ## Project Overview
 Security Bagel is about creating and sharing practical and enjoyable Power BI templates for cybersecurity and GRC (Governance, Risk, and Compliance) use cases.
 
