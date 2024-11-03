@@ -16,8 +16,7 @@ body {
 
 /* Header styling */
 header {
-    background: #0078d4;
-    color: #fff;
+    background: #FFFFFF;
     padding: 2rem;
 }
 
@@ -67,6 +66,17 @@ h2 {
     background-color: #005a9e;
 }
 
+.repository {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px auto 20px auto; /* Adds 20px space at the bottom between sections */
+    width: 80%;
+    max-width: 600px;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.1);
+}
+
 /* Footer styling */
 footer {
     background: #333;
@@ -74,3 +84,4 @@ footer {
     padding: 1rem;
     font-size: 0.9rem;
 }
+
