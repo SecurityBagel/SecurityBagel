@@ -22,7 +22,7 @@ Security Bagel is about creating and sharing practical and enjoyable Power BI te
 
 Thanks to our wonderful sponsors:
 
-[![UberEther](https://avatars.githubusercontent.com/u/967428?s=200&v=4)](https://github.com/UberEther) 
+[![UberEther](https://avatars.githubusercontent.com/u/967428?s=70&v=4)](https://github.com/UberEther) 
 
 ## License and Contribution Guidelines
 This repository is licensed under the **GNU General Public License (GPL)**.
