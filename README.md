@@ -18,11 +18,13 @@ Security Bagel is about creating and sharing practical and enjoyable Power BI te
 - Continue adding practical templates for cybersecurity frameworks and management.
 - Respond to your feedback and use-case requests.
 
-## 🙏 Sponsors
+## 💖 Thank You to Our Sponsors!
 
-Thanks to our wonderful sponsors:
+Your support helps keep this project alive and growing.
 
 [![UberEther](https://avatars.githubusercontent.com/u/967428?s=70&v=4)](https://github.com/UberEther) 
+
+Support this project and unlock exclusive templates, access to the community Discord, and more![Become a sponsor!](https://github.com/sponsors/SecurityBagel)
 
 ## License and Contribution Guidelines
 This repository is licensed under the **GNU General Public License (GPL)**.
