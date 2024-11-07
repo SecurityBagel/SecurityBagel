@@ -22,9 +22,9 @@ Security Bagel is about creating and sharing practical and enjoyable Power BI te
 
 Your support helps keep this project alive and growing.
 
-[![UberEther](https://avatars.githubusercontent.com/u/967428?s=70&v=4)](https://github.com/UberEther) 
+[![UberEther](https://avatars.githubusercontent.com/u/967428?s=70&v=4)](https://github.com/UberEther) [![MichaelOIDevs](https://avatars.githubusercontent.com/u/140631890?s=70&v=4)](https://github.com/MichaelOIDevs) 
 
-Support this project and unlock exclusive templates, access to the community Discord, and more![Become a sponsor!](https://github.com/sponsors/SecurityBagel)
+Support this project and unlock exclusive templates, access to the community Discord, and more! [Become a sponsor](https://github.com/sponsors/SecurityBagel)
 
 ## License and Contribution Guidelines
 This repository is licensed under the **GNU General Public License (GPL)**.
