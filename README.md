@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SecurityBagel/SecurityBagel/blob/main/SecurityBagel.png"/>
+  <img src="https://github.com/SecurityBagel/SecurityBagel/blob/main/Security Bagel Logo.png"/>
 </p>
 
 <p align="center">
